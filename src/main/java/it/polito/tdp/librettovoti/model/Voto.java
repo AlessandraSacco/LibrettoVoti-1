@@ -60,7 +60,7 @@ public void setData(LocalDate data) {
 
 @Override
 public String toString() {
-	return "Esame + nome=" + nome + " superato con " + voto + ", in data " + data ;
+	return "Esame " + nome + " superato con " + voto + ", in data " + data ;
 }
 
 
